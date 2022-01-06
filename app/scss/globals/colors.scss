@@ -1,0 +1,22 @@
+:root {
+  --color-limegreen: hsl(163, 72%, 41%);
+  --color-brightred: hsl(356, 69%, 56%);
+  --color-facebook: hsl(208, 92%, 53%);
+  --color-twitter: hsl(203, 89%, 53%);
+  --color-instagram: linear gradient hsl(37, 97%, 70%) to hsl(329, 70%, 58%);
+  --color-youtube: hsl(348, 97%, 39%);
+  --color-toggle-bg: gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%);
+  --color-toggle: hsl(230, 22%, 74%);
+
+  --darkmode-bg: hsl(230, 17%, 14%);
+  --darkmode-top-bg: hsl(232, 19%, 15%);
+  --darkmode-card-bg: hsl(228, 28%, 20%);
+  --darkmode-text-1: hsl(228, 34%, 66%);
+  --darkmode-text-2: hsl(0, 0%, 100%);
+
+  --lightmode-bg: hsl(0, 0%, 100%);
+  --lightmode-top-bg: hsl(225, 100%, 98%);
+  --lightmode-card-bg: hsl(227, 47%, 96%);
+  --lightmode-text-1: hsl(228, 12%, 44%);
+  --lightmode-text-2: hsl(230, 17%, 14%);
+}
