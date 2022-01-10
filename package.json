@@ -12,6 +12,7 @@
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
     "gulp-terser": "^2.1.0",
-    "postcss": "^8.4.5"
+    "postcss": "^8.4.5",
+    "sass": "^1.47.0"
   }
 }
